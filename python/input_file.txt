@@ -1,0 +1,3 @@
+https://docs.python.org/3/library/unittest.html
+https://docs.python.org/3/library/stdtypes.html
+https://www.tutorialspoint.com/junit/junit_using_assertion.htm
